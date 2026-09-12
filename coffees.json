@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Cappuccino",
+    "description": "Rich espresso with creamy milk foam.",
+    "votes": 11
+  },
+  {
+    "id": 2,
+    "name": "Cold Coffee",
+    "description": "Chilled and refreshing coffee blend.",
+    "votes": 3
+  },
+  {
+    "id": 3,
+    "name": "Mocha",
+    "description": "Delicious coffee with chocolate flavor.",
+    "votes": 7
+  },
+  {
+    "id": 4,
+    "name": "Cafe Latte",
+    "description": "Smooth espresso with steamed milk.",
+    "votes": 4
+  }
+]
